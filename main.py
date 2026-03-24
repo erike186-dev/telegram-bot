@@ -15,14 +15,14 @@ PHOTO_URL = "https://files.fm/u/d2je9sfxfy"
 
 CAPTION = (
     "👋 Welcome! Join our channel and visit our website\n\n"
-    "💰 Free 38,888 Kyat 💰\n"
+    "💰 Free 38,888 Kyat 💰 bonous\n"
 )
 
 def build_keyboard():
     return InlineKeyboardMarkup([
         [
-            InlineKeyboardButton("Join Channel", url="https://t.me/cryptotop1994"),
-            InlineKeyboardButton("Visit Website", url="https://burmaking88.com/RF150370311"),
+            InlineKeyboardButton("Our Channel", url="https://t.me/cryptotop1994"),
+            InlineKeyboardButton("အကောင့်ဖွင့်ရန်လင့်", url="https://burmaking88.com/RF150370311"),
         ],
         [
             InlineKeyboardButton("📘 အကောင့်ဖွင့်နည်း", url="https://t.me/BMK88bmk88/8764"),
