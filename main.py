@@ -15,7 +15,7 @@ PHOTO_URL = "https://files.fm/u/d2je9sfxfy"
 
 CAPTION = (
     "👋 Welcome! Join our channel and visit our website\n\n"
-    "💰 Free 38,888 Kyat 💰 bonous\n"
+    "💰 Free 38,888 Kyat 💰 bonus\n"
 )
 
 def build_keyboard():
