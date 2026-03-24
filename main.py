@@ -25,10 +25,12 @@ def build_keyboard():
             InlineKeyboardButton("Visit Website", url="https://burmaking88.com/RF150370311"),
         ],
         [
+            InlineKeyboardButton("📘 အကောင့်ဖွင့်နည်း", url="https://t.me/BMK88bmk88/8764"),
+        ],
+        [
             InlineKeyboardButton("🔁 Start Again", callback_data="start_again"),
         ]
     ])
-
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await update.message.reply_photo(
         photo=PHOTO_URL,
